@@ -8,6 +8,19 @@ Eu sou <strong>Jefferson Guilherme</strong>, <strong>estudante de desenvolviment
 
 <div align="center">
 
+![Your github status](https://github-readme-stats.vercel.app/api?username=Duduxs&show_icons=true&theme=dark)
+<<<<<<< HEAD
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duduxs&layout=compact&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
+=======
+>>>>>>> a4a2cab57174f77be8802b734726a13df5e1bab1
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duduxs&layout=compact&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
+
+  </div>
+
+<div align="center">
+
   <a href="#" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 
