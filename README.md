@@ -8,7 +8,7 @@ Eu sou <strong>Jefferson Guilherme</strong>, <strong>estudante de desenvolviment
 
 <div align="center">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duduxs&layout=compact&theme=dark)](https://github.com/jeffersonguilherme/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonguilherme&layout=compact&theme=dark)](https://github.com/jeffersonguilherme/github-readme-stats)
 
   </div>
 
