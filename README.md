@@ -2,7 +2,7 @@
 
 Eu sou <strong>Jefferson Guilherme</strong>, <strong>estudante de desenvolvimento full-stack</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Javascript</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>Javascript e Lua</strong> 
 - 💬 Pergunte-me sobre: <strong>Isaac Asimov</strong>
 - 📣 Nós podemos falar em: <strong>Português</strong>
 
