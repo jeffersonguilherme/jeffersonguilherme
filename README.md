@@ -1,6 +1,6 @@
 # [Jefferson Guilherme] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-Eu sou <strong>Jefferson Guilherme</strong>, <strong>Estudante de desevolvimento full-stack</strong> 👨🏻‍💻 
+Eu sou <strong>Jefferson Guilherme</strong>, <strong>Estudante de desenvolvimento full-stack</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Javascript</strong> 
 - 💬 Pergunte-me sobre: <strong>Isaac Asimov</strong>
