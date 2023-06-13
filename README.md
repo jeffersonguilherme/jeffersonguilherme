@@ -7,6 +7,9 @@ Eu sou <strong>Jefferson Guilherme</strong>, <strong>estudante de desenvolviment
 - 📣 Nós podemos falar em: <strong>Português</strong>
 
 <div align="center">
+  
+  ![Your github status](https://github-readme-stats.vercel.app/api?username=jeffersonguilherme&show_icons=true&theme=dark)
+<<<<<<< HEAD
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonguilherme&layout=compact&theme=dark)](https://github.com/jeffersonguilherme/github-readme-stats)
 
