@@ -7,15 +7,15 @@ Eu sou <strong>Jefferson Guilherme</strong>, <strong>estudante de desenvolviment
 - 📣 Nós podemos falar em: <strong>Português</strong>
 
 <a href="LINK_DO_SEU_SITE_AQUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Duduxs&show_icons=true&theme=radical" alt="Github status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffersonguilherme&show_icons=true&theme=radical" alt="Github status" />
 </a>
 <a href="LINK_DO_SEU_SITE_AQUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duduxs&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonguilherme&layout=compact&theme=radical" />
 </a>
 
 
 ___
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Duduxs" alt="Status" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffersonguilherme" alt="Status" /> </p>
 
 <div align="center">
 
