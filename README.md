@@ -2,7 +2,7 @@
 
 Eu sou <strong>Jefferson Guilherme</strong>, <strong>estudante de desenvolvimento full-stack</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="20px"> Javascript e <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/800px-Lua-Logo.svg.png" width="20px"> Lua</strong> 
+- 🚀 Atualmente estou aprendendo: <strong><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="20px"> Javascript
 - 💬 Pergunte-me sobre: <strong>Isaac Asimov</strong>
 - 📣 Nós podemos falar em: <strong>Português</strong>
 
