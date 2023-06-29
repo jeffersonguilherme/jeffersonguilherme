@@ -15,7 +15,7 @@ Eu sou <strong>Jefferson Guilherme</strong>, <strong>estudante de desenvolviment
 
 
 ___
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffersonguilherme" alt="Status" /> </p>
+
 
 <div align="center">
 
