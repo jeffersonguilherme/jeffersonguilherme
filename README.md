@@ -1,6 +1,6 @@
 # [Jefferson Guilherme] <img src="https://66.media.tumblr.com/7a9887c0bcee588d322d1cca9d45b0d5/tumblr_mfbf32p0qF1rfjowdo1_500.gif" width="30px">
 
-Eu sou <strong>Jefferson Guilherme</strong>, <strong>estudante de desenvolvimento full-stack</strong> 👨🏻‍💻 
+Eu sou <strong>Jefferson Guilherme</strong>, <strong>estudante de desenvolvimento Back-end</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong> C# </strong><img src="[[https://cdn-icons-png.flaticon.com/512/5968/5968292.png]](https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_plain_logo_icon_146577.png)" width="20px">
 - 💬 Pergunte-me sobre: <strong>Isaac Asimov</strong>
