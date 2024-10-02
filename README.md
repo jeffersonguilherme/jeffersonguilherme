@@ -1,4 +1,4 @@
-# [Jefferson Guilherme] <img src="https://66.media.tumblr.com/7a9887c0bcee588d322d1cca9d45b0d5/tumblr_mfbf32p0qF1rfjowdo1_500.gif" width="30px">
+# Jefferson Guilherme <img src="https://66.media.tumblr.com/7a9887c0bcee588d322d1cca9d45b0d5/tumblr_mfbf32p0qF1rfjowdo1_500.gif" width="30px">
 
 Eu sou <strong>Jefferson Guilherme</strong>, <strong>desenvolvedor Back-End</strong> 👨🏻‍💻 
 
