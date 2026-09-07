@@ -9,8 +9,12 @@ Eu sou **Jefferson Guilherme**, **desenvolvedor Back-End** 👨🏻‍💻
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeffersonguilherme&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonguilherme&layout=compact&theme=radical" alt="Top Langs" />
+  <a href="https://github.com/jeffersonguilherme">
+    <img src="https://github-readme-stats.vercel.app/api?username=jeffersonguilherme&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Github Stats" />
+  </a>
+  <a href="https://github.com/jeffersonguilherme">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonguilherme&layout=compact&theme=radical" alt="Top Langs" />
+  </a>
 </p>
 
 ---
